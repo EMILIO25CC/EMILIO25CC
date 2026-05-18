@@ -42,48 +42,42 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia 
 
 <div align="center">
 
-### 📱 Mobile — iOS & Android
+### 🟢 Stack Principal — Uso activo en producción y proyectos reales
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0071E3?style=for-the-badge&logo=apple&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Play_Console-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ⚙️ Backend
+### 🔵 Experiencia Académica & Proyectos — Backend · Seguridad · Bases de Datos
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge)
-
-### 🔐 Seguridad
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![BCrypt](https://img.shields.io/badge/BCrypt-e94560?style=for-the-badge)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🗄️ Bases de Datos
+![BCrypt](https://img.shields.io/badge/BCrypt-e94560?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### 🏗️ Arquitecturas
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-e94560?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-0f3460?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-444444?style=for-the-badge)
 ![Hexagonal](https://img.shields.io/badge/Hexagonal-7F52FF?style=for-the-badge)
-
-### 🧰 Herramientas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0071E3?style=for-the-badge&logo=apple&logoColor=white)
-![Google Play Console](https://img.shields.io/badge/Play_Console-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
