@@ -1,9 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Carlos Cabrera
-### `Mobile & Desktop Software Engineer · Product Builder · Lima, Perú 🇵🇪`
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Carlos%20Cabrera&fontSize=60&fontColor=e94560&fontAlignY=35&desc=Mobile%20%26%20Backend%20Software%20Engineer%20%7C%20Product%20Builder&descSize=18&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-cabrera-dev/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DeSofCC)
@@ -16,22 +13,15 @@
 
 ## 👨‍💻 Sobre mí
 
-```kotlin
-data class Developer(
-    val name:      String       = "Carlos Emilio Cabrera Castañeda",
-    val alias:     String       = "EMILIO25CC",
-    val location:  String       = "Lima, Perú 🇵🇪",
-    val focus:     List<String> = listOf(
-        "Mobile Development (iOS & Android)",
-        "Desktop Engineering (JavaFX)",
-        "System Architecture & Optimization",
-        "AI-Accelerated Development"
-    ),
-    val philosophy: String = "Build products that work in the real world, under real conditions"
-)
-```
+> **Carlos Emilio Cabrera Castañeda** (`EMILIO25CC`)  
+> 📍 Lima, Perú 🇵🇪 · **Mobile & Backend Software Engineer** > _"Build products that work in the real world, under real conditions."_
 
-> Desarrollador enfocado en soluciones de **alta arquitectura y bajo nivel**. Construyo productos reales con criterio de ingeniería, optimización de recursos del sistema y flujo de trabajo potenciado con **Inteligencia Artificial**. Me apasiona el rendimiento crítico, la persistencia de servicios y la experiencia de usuario sin fricciones.
+Desarrollador de software especializado en el diseño de **aplicaciones móviles nativas de alto rendimiento** y en la construcción de **arquitecturas backend robustas y escalables**. Enfoco mi criterio de ingeniería en la optimización de recursos, flujos de trabajo eficientes y la persistencia crítica de servicios, apoyándome en herramientas de Inteligencia Artificial para acelerar el ciclo de desarrollo.
+
+### 🎯 Áreas de Enfoque:
+* 📱 **Mobile Development:** Especializado en el desarrollo avanzado y reactivo para entornos nativos (iOS con Swift/SwiftUI y Android con Kotlin).
+* ☕ **Backend Engineering:** Diseño de APIs, lógicas de negocio complejas y servicios empresariales utilizando Spring Boot y Java.
+* 🛠️ **Developer Utilities:** Creación sutil de herramientas de escritorio (JavaFX) diseñadas específicamente para optimizar y gestionar ecosistemas móviles y flujos de trabajo dev.
 
 ---
 
@@ -44,11 +34,11 @@ data class Developer(
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🖥️ Desktop & Backend
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☕ Backend & Core
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,12 +47,12 @@ data class Developer(
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🏗️ Arquitecturas & Herramientas
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-e94560?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-0f3460?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-e94560?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0f3460?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
@@ -70,36 +60,36 @@ data class Developer(
 
 ## 🚀 Proyectos Destacados
 
-### 🔋 MoniBat — Android Battery Intelligence
-> *Monitor de salud de batería de alta precisión · En lanzamiento a Google Play*
+### 🔋 [MoniBat](https://github.com/EMILIO25CC) — Android Battery Intelligence
+> *Monitor de salud de batería de alta precisión — En lanzamiento a Google Play*
 
-- **Arquitectura reactiva** con `BroadcastReceivers` — consumo ultraeficiente de **< 1 mAh en 24 horas**
-- 🏅 **+320 horas continuas** de ejecución en background en Android 15, superando las políticas restrictivas de MagicOS (Honor)
-- Lógica de agregación para reportes diarios/semanales de ciclos de carga parciales
-- **Privacy by Design (GDPR):** sin recopilación de datos, 100% local
-- `Kotlin` · `MVVM` · `Clean Architecture` · `Room/SQLite`
+* **Arquitectura reactiva** basada en `BroadcastReceivers` con un consumo ultraeficiente comprobado de **< 1 mAh en 24 horas**.
+* 🏅 **Hito técnico:** Más de **320 horas continuas** de ejecución en background bajo las estrictas políticas de Android 15 y MagicOS (Honor).
+* Lógica avanzada de agregación de datos locales para reportes diarios y semanales de ciclos de carga parciales.
+* **Privacy by Design (GDPR):** Arquitectura con persistencia 100% local, garantizando cero recopilación de datos externos.
+* `Kotlin` · `Android Native` · `MVVM` · `Clean Architecture` · `Room/SQLite`
 
 ---
 
-### 🏥 Sentinel Care — iOS Remote Monitoring Platform
-> *Plataforma de monitoreo médico remoto · Atlas System (Nov 2025 – Feb 2026)*
+### 🏥 [Sentinel Care](https://github.com/EMILIO25CC/Landing-Page-SentinelCare) — iOS Remote Monitoring Platform
+> *Plataforma de monitoreo médico remoto — Atlas System*
 
-- Desarrollada en **Swift/SwiftUI** con arquitectura modular limpia (`Core · Features · Dashboard`)
-- Integración con **HealthKit** para tracking biométrico en tiempo real y detección de anomalías
-- Control **multirrol** (Centinela Principal · Aliado · Protegido) con visibilidad condicional por plan
-- Integración con **AWS** y servicios nativos de Apple
-- `Swift` · `SwiftUI` · `HealthKit` · `CoreLocation` · `MVVM` · `AWS`
+* Diseñada bajo una **estructura modular limpia** segregada por componentes (`Core` · `Features` · `Dashboard`).
+* Integración nativa con **HealthKit** para el tracking en tiempo real de constantes biométricas críticas y alertas de anomalías.
+* Control **multirrol** (Centinela Principal · Aliado · Protegido) mediante lógicas de renderizado y visibilidad condicional según plan.
+* Conexión asíncrona robusta con APIs en **AWS** y servicios nativos del ecosistema Apple.
+* `Swift` · `SwiftUI` · `HealthKit` · `CoreLocation` · `MVVM` · `AWS`
 
 ---
 
 ### 🎮 [Scrcpy Control Center](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER) — Desktop Android Manager
-> *Herramienta "Zero Setup" para gestión remota de dispositivos Android · Open Source*
+> *Herramienta utilitaria de código abierto para la gestión y control de dispositivos Android*
 
-- **JavaFX** — control remoto vía USB/WiFi con detección automática de dispositivos (Android 6–15)
-- Patrón **Auto-Healing (Watchdog)** que restablece servicios ADB sin intervención del usuario
-- Binarios ADB completamente embebidos — sin configuración manual por parte del usuario
-- ✅ **Validado por Microsoft Security Intelligence** como software seguro (Caso ID: 21361229)
-- `JavaFX` · `Java` · `ADB` · `Process Management`
+* Interfaz en **JavaFX** orientada al desarrollador para control de baja latencia vía USB/WiFi con emparejamiento automático (Android 6 a 15).
+* Implementación del patrón **Auto-Healing (Watchdog)** para el autorestablecimiento inteligente de servicios ADB caídos de forma transparente.
+* Distribución **Stand-alone**: Procesos ADB embebidos por completo para acelerar pruebas locales de aplicaciones sin requerir configuraciones de entorno manuales.
+* ✅ **Validado oficialmente como software seguro** por *Microsoft Security Intelligence* (Caso ID: 21361229).
+* `JavaFX` · `Java` · `ADB` · `Process Management`
 
 ---
 
@@ -107,11 +97,15 @@ data class Developer(
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EMILIO25CC&show_icons=true&theme=github_dark&hide_border=true&title_color=e94560&icon_color=e94560&text_color=c9d1d9&bg_color=0d1117)](https://github.com/EMILIO25CC)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EMILIO25CC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=e94560&icon_color=e94560&title_color=e94560&text_color=a8b2d8"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMILIO25CC&layout=compact&theme=github_dark&hide_border=true&title_color=e94560&text_color=c9d1d9&bg_color=0d1117)](https://github.com/EMILIO25CC)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMILIO25CC&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&border_color=e94560&title_color=e94560&text_color=a8b2d8"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EMILIO25CC&theme=github-dark-blue&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://github.com/EMILIO25CC)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EMILIO25CC&theme=dark&background=0d1117&border=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,33 +113,21 @@ data class Developer(
 
 ## 🎯 Actualmente
 
-- 🔨 Finalizando el lanzamiento de **MoniBat** en Google Play Store
-- 📚 Profundizando en **sistemas distribuidos** y **Apache Kafka**
-- 🤖 Explorando **IA aplicada** como acelerador de arquitectura y desarrollo
-- 🎯 Objetivo: sistemas críticos de alto rendimiento
+* 🔨 Finalizando el despliegue técnico y lanzamiento de **MoniBat** en la Google Play Store.
+* 📚 Profundizando en la arquitectura de **sistemas distribuidos** de alta disponibilidad y **Apache Kafka** enfocado al ecosistema Backend.
+* 🤖 Desarrollando metodologías de **IA aplicada** como acelerador de patrones arquitectónicos complejos.
+* 🎯 **Objetivo profesional:** Incorporarme a proyectos enfocados en sistemas críticos de alto rendimiento.
 
 ---
 
-## 💡 Filosofía de Desarrollo
+## 💡 Filosofía de Ingeniería
 
-```swift
-protocol EngineeringMindset {
-    var approach: String { get }
-    var goal:     String { get }
-}
-
-struct CarlosApproach: EngineeringMindset {
-    let approach = "Architecture-first, performance-obsessed"
-    let goal     = "Ship products that survive the real world"
-}
-```
+> 🚀 **"Architecture-first, performance-obsessed."** > Enfoco mi criterio técnico en la premisa de que el buen software no se mide por cómo funciona en un entorno controlado, sino por cómo sobrevive, escala y responde ante las condiciones más hostiles del mundo real, desde la interfaz del usuario en el móvil hasta el último microservicio en el servidor.
 
 ---
 
 <div align="center">
 
-**`< Let's build something great together />`**
-
-![Profile Views](https://komarev.com/ghpvc/?username=EMILIO25CC&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&text=Let%27s%20Build%20Something%20Great%20Together&fontSize=20&fontColor=e94560&fontAlignY=65)
 
 </div>
