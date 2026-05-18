@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Carlos%20Cabrera&fontSize=60&fontColor=e94560&fontAlignY=35&desc=Mobile%20%26%20Desktop%20Software%20Engineer%20%7C%20Product%20Builder&descSize=18&descAlignY=60&descColor=a8b2d8&animation=fadeIn" width="100%"/>
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Carlos%20Cabrera&fontSize=60&fontColor=e94560&fontAlignY=35&desc=Mobile%20%26%20Desktop%20Software%20Engineer%20%7C%20Product%20Builder&descSize=18&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
 
 <div align="center">
 
@@ -150,8 +146,4 @@ struct CarlosApproach: EngineeringMindset {
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=e94560&fontAlignY=65" width="100%"/>
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=20&fontColor=e94560&fontAlignY=65)
