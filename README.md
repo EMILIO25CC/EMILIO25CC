@@ -1,7 +1,6 @@
 <div align="center">
 
-#  Hola, soy Carlos Cabrera
-### `iOS · Android · Backend Engineer · Product Builder · Lima, Perú 🇵🇪`
+![Banner](./Banner_linkedIn.png)
 
 <br/>
 
@@ -16,7 +15,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia, rendimiento crítico y seguridad**. Construyo productos reales desde la concepción hasta producción, con criterio técnico sólido en sistemas iOS, Android y servicios backend escalables. Potencio mi flujo de trabajo con **Inteligencia Artificial** como acelerador de arquitectura y desarrollo.
+Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia y seguridad aplicada**. Construyo productos reales desde la concepción hasta producción, en iOS, Android y servicios backend escalables. Trabajo con flujos de desarrollo asistidos por IA como acelerador de arquitectura y productividad.
 
 | | |
 |---|---|
@@ -24,8 +23,18 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia,
 | 📱 **Mobile** | iOS (Swift · SwiftUI) · Android (Kotlin · Java) |
 | ⚙️ **Backend** | Spring Boot · Microservices · REST APIs |
 | 🔐 **Seguridad** | Criptografía aplicada · Spring Security · OAuth2 |
-| 🤖 **Enfoque** | AI-Accelerated Development |
+| 🤖 **Flujo de trabajo** | AI-assisted architecture and development workflows |
 | 💬 **Filosofía** | *Build products that work in the real world, under real conditions* |
+
+---
+
+## 🎯 Áreas de Interés
+
+- 📡 Distributed Systems & High Availability
+- 📱 Mobile Infrastructure (iOS & Android)
+- 🗺️ Real-time Tracking & Geofencing
+- 🔐 Security Engineering & Cryptography
+- ⚙️ Backend Scalability
 
 ---
 
@@ -46,7 +55,7 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia,
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge)
 
-### 🔐 Seguridad Informática
+### 🔐 Seguridad
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![BCrypt](https://img.shields.io/badge/BCrypt-e94560?style=for-the-badge)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge)
@@ -74,67 +83,65 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia,
 ![Google Play Console](https://img.shields.io/badge/Play_Console-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-e94560?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🔋 MoniBat — Android Battery Intelligence
-> *Monitor de salud de batería de alta precisión · ✅ Aprobado — En espera de pase a producción en Google Play*
-
-- **Arquitectura reactiva** con `BroadcastReceivers` — consumo ultraeficiente de **< 1 mAh en 24 horas**
-- 🏅 **+385 horas continuas** de ejecución en background en Android 15 con capas de personalización agresivas
-- Lógica de agregación para reportes estadísticos diarios/semanales de ciclos de carga parciales
-- **Privacy by Design (GDPR):** sin recopilación de datos, 100% local
-- `Kotlin` · `MVVM` · `Clean Architecture` · `Room/SQLite` · `BroadcastReceivers`
-
----
+## 🚀 Proyectos
 
 ### 🏥 Sentinel Care — iOS Remote Monitoring Platform
 > 💼 **Experiencia Profesional · [Atlas Tech Studio](https://www.linkedin.com/company/atlas-systems-pe/)** · Nov 2025 – Presente · *+5 meses*
 > *Desarrollador iOS — responsable del ciclo completo de la aplicación*
 
-- Desarrollada en **Swift/SwiftUI** con arquitectura modular limpia (`Core · Features · Dashboard`)
-- **Tracking híbrido** con `CoreLocation` + GPS para monitoreo de ubicación en tiempo real y geofencing avanzado
-- Integración con **HealthKit** para tracking biométrico y detección de anomalías
-- **Sign in with Apple** y pagos integrados con **Apple Pay**
-- Control **multirrol** (Centinela Principal · Aliado · Protegido) con visibilidad condicional por plan
-- Integración con **AWS** y servicios nativos de Apple
-- `Swift` · `SwiftUI` · `HealthKit` · `CoreLocation` · `GPS` · `Apple Pay` · `MVVM` · `AWS`
+- Swift/SwiftUI con arquitectura modular limpia (`Core · Features · Dashboard`)
+- Tracking híbrido con `CoreLocation` + GPS — geofencing avanzado en tiempo real
+- HealthKit para monitoreo biométrico y detección de anomalías
+- Sign in with Apple · Apple Pay integrado
+- Control multirrol (Centinela · Aliado · Protegido) con visibilidad condicional por plan
+- `Swift` · `SwiftUI` · `HealthKit` · `CoreLocation` · `Apple Pay` · `MVVM` · `AWS`
+
+---
+
+### 🔋 MoniBat — Android Battery Intelligence
+> *Monitor de salud de batería · ✅ Aprobado — En espera de pase a producción en Google Play*
+
+- Arquitectura reactiva con `BroadcastReceivers` — consumo de **< 1 mAh en 24 horas**
+- +385 horas continuas en background en Android 15 con capas de personalización agresivas
+- Reportes estadísticos diarios/semanales de ciclos de carga parciales
+- Privacy by Design (GDPR) — datos 100% locales
+- `Kotlin` · `MVVM` · `Clean Architecture` · `Room/SQLite`
 
 ---
 
 ### 🔐 BCrypt — Investigación Técnica en Seguridad
-> *Análisis profundo del algoritmo de hashing para contraseñas más adoptado en producción*
+> *Análisis del algoritmo de hashing de contraseñas más adoptado en producción*
 
-- Documentación técnica del **funcionamiento interno de BCrypt**: arquitectura Blowfish, salting, Key Expansion y rondas de cómputo
-- Análisis comparativo con **Argon2** (ganador PHC 2015) y algoritmos legacy como SHA-1 y MD5
-- Aplicación práctica en **Spring Security** con `BCryptPasswordEncoder` para flujos de registro y autenticación
-- Comprensión del comportamiento de hashing: por qué el mismo input genera outputs distintos y cómo funciona la verificación sin almacenar la contraseña original
-- `Spring Security` · `BCrypt` · `OAuth2` · `Criptografía` · `Seguridad de Contraseñas`
+- Funcionamiento interno: arquitectura Blowfish, salting, Key Expansion y rondas de cómputo
+- Comparativa con Argon2 (ganador PHC 2015) y algoritmos legacy SHA-1 / MD5
+- Aplicación práctica con `BCryptPasswordEncoder` en Spring Security
+- `Spring Security` · `BCrypt` · `OAuth2` · `Criptografía`
 
 ---
 
 ### 🖥️ [Scrcpy Control Center](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER) — Desktop Android Manager
 > *Herramienta "Zero Setup" para gestión remota de dispositivos Android · Open Source*
 
-- **JavaFX** — control remoto vía USB/WiFi con detección automática de dispositivos disponible desde Android 6
-- Patrón **Auto-Healing (Watchdog)** que restablece servicios ADB sin intervención del usuario
-- Binarios ADB completamente embebidos — sin configuración manual por parte del usuario
-- ✅ **Validado por Microsoft Security Intelligence** como software seguro (Caso ID: 21361229)
-- `JavaFX` · `Java` · `ADB` · `Process Management`
+- JavaFX — control remoto vía USB/WiFi disponible desde Android 6
+- Patrón Auto-Healing (Watchdog) que restablece servicios ADB automáticamente
+- ✅ Validado por Microsoft Security Intelligence (Caso ID: 21361229)
+- `JavaFX` · `Java` · `ADB`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EMILIO25CC&theme=github-dark-blue&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://github.com/EMILIO25CC)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EMILIO25CC&theme=github-compact&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff)](https://github.com/EMILIO25CC)
 
 </div>
 
@@ -142,17 +149,16 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia,
 
 ## 🎯 Actualmente
 
-- ⏳ **MoniBat** aprobado tras 14 días de revisión — aguardando pase a producción en Google Play
-- 📚 Profundizando en **arquitectura de sistemas distribuidos de alta disponibilidad** y **Apache Kafka** con enfoque en el ecosistema Backend
-- 🔐 Ampliando conocimientos en **seguridad informática**: criptografía aplicada, autenticación segura y protección de datos en producción
-- 🎯 Objetivo: sistemas backend críticos, escalables y seguros
+- ⏳ MoniBat aprobado tras 14 días de revisión — aguardando pase a producción en Google Play
+- 📚 Arquitectura de sistemas distribuidos de alta disponibilidad y Apache Kafka — ecosistema Backend
+- 🔐 Seguridad informática: criptografía aplicada, autenticación segura y protección de datos en producción
 
 ---
 
-## 💡 Filosofía de Desarrollo
+## 💡 Filosofía
 
-- 🏗️ **Architecture-first** — diseño la estructura antes de escribir la primera línea de código
-- 🔐 **Security by design** — la seguridad no es un añadido, es parte del núcleo
+- 🏗️ **Architecture-first** — diseño la estructura antes de escribir la primera línea
+- 🔐 **Security by design** — la seguridad es parte del núcleo, no un añadido
 - 🚀 **Ship products that survive the real world** — rendimiento real, no solo en teoría
 
 ---
