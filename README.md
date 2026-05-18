@@ -1,6 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Carlos%20Cabrera&fontSize=60&fontColor=e94560&fontAlignY=35&desc=Mobile%20%26%20Backend%20Software%20Engineer%20%7C%20Product%20Builder&descSize=18&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
+# 👋 Hola, soy Carlos Cabrera
+### `iOS · Android · Backend Engineer · Product Builder · Lima, Perú 🇵🇪`
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-cabrera-dev/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DeSofCC)
@@ -13,15 +16,23 @@
 
 ## 👨‍💻 Sobre mí
 
-> **Carlos Emilio Cabrera Castañeda** (`EMILIO25CC`)  
-> 📍 Lima, Perú 🇵🇪 · **Mobile & Backend Software Engineer** > _"Build products that work in the real world, under real conditions."_
+```kotlin
+data class Developer(
+    val name:      String       = "Carlos Emilio Cabrera Castañeda",
+    val alias:     String       = "EMILIO25CC",
+    val location:  String       = "Lima, Perú 🇵🇪",
+    val focus:     List<String> = listOf(
+        "iOS Development (Swift · SwiftUI)",
+        "Android Development (Kotlin · Java)",
+        "Backend Engineering (Spring Boot · Microservices)",
+        "Information Security & Cryptography",
+        "AI-Accelerated Development"
+    ),
+    val philosophy: String = "Build products that work in the real world, under real conditions"
+)
+```
 
-Desarrollador de software especializado en el diseño de **aplicaciones móviles nativas de alto rendimiento** y en la construcción de **arquitecturas backend robustas y escalables**. Enfoco mi criterio de ingeniería en la optimización de recursos, flujos de trabajo eficientes y la persistencia crítica de servicios, apoyándome en herramientas de Inteligencia Artificial para acelerar el ciclo de desarrollo.
-
-### 🎯 Áreas de Enfoque:
-* 📱 **Mobile Development:** Especializado en el desarrollo avanzado y reactivo para entornos nativos (iOS con Swift/SwiftUI y Android con Kotlin).
-* ☕ **Backend Engineering:** Diseño de APIs, lógicas de negocio complejas y servicios empresariales utilizando Spring Boot y Java.
-* 🛠️ **Developer Utilities:** Creación sutil de herramientas de escritorio (JavaFX) diseñadas específicamente para optimizar y gestionar ecosistemas móviles y flujos de trabajo dev.
+> Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia, rendimiento crítico y seguridad**. Construyo productos reales desde la concepción hasta producción, con criterio técnico sólido en sistemas iOS, Android y servicios backend escalables. Potencio mi flujo de trabajo con **Inteligencia Artificial** como acelerador de arquitectura y desarrollo.
 
 ---
 
@@ -29,16 +40,24 @@ Desarrollador de software especializado en el diseño de **aplicaciones móviles
 
 <div align="center">
 
-### 📱 Mobile
+### 📱 Mobile — iOS & Android
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☕ Backend & Core
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge)
+
+### 🔐 Seguridad Informática
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-e94560?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,13 +65,24 @@ Desarrollador de software especializado en el diseño de **aplicaciones móviles
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🏗️ Arquitecturas & Herramientas
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-e94560?style=for-the-badge&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-0f3460?style=for-the-badge&logoColor=white)
+### 🏗️ Arquitecturas
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-e94560?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-0f3460?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-444444?style=for-the-badge)
+![Hexagonal](https://img.shields.io/badge/Hexagonal-7F52FF?style=for-the-badge)
+
+### 🧰 Herramientas & Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0071E3?style=for-the-badge&logo=apple&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Play_Console-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-e94560?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -60,36 +90,48 @@ Desarrollador de software especializado en el diseño de **aplicaciones móviles
 
 ## 🚀 Proyectos Destacados
 
-### 🔋 [MoniBat](https://github.com/EMILIO25CC) — Android Battery Intelligence
-> *Monitor de salud de batería de alta precisión — En lanzamiento a Google Play*
+### 🔋 MoniBat — Android Battery Intelligence
+> *Monitor de salud de batería de alta precisión · ✅ Aprobado — En espera de pase a producción en Google Play*
 
-* **Arquitectura reactiva** basada en `BroadcastReceivers` con un consumo ultraeficiente comprobado de **< 1 mAh en 24 horas**.
-* 🏅 **Hito técnico:** Más de **320 horas continuas** de ejecución en background bajo las estrictas políticas de Android 15 y MagicOS (Honor).
-* Lógica avanzada de agregación de datos locales para reportes diarios y semanales de ciclos de carga parciales.
-* **Privacy by Design (GDPR):** Arquitectura con persistencia 100% local, garantizando cero recopilación de datos externos.
-* `Kotlin` · `Android Native` · `MVVM` · `Clean Architecture` · `Room/SQLite`
-
----
-
-### 🏥 [Sentinel Care](https://github.com/EMILIO25CC/Landing-Page-SentinelCare) — iOS Remote Monitoring Platform
-> *Plataforma de monitoreo médico remoto — Atlas System*
-
-* Diseñada bajo una **estructura modular limpia** segregada por componentes (`Core` · `Features` · `Dashboard`).
-* Integración nativa con **HealthKit** para el tracking en tiempo real de constantes biométricas críticas y alertas de anomalías.
-* Control **multirrol** (Centinela Principal · Aliado · Protegido) mediante lógicas de renderizado y visibilidad condicional según plan.
-* Conexión asíncrona robusta con APIs en **AWS** y servicios nativos del ecosistema Apple.
-* `Swift` · `SwiftUI` · `HealthKit` · `CoreLocation` · `MVVM` · `AWS`
+- **Arquitectura reactiva** con `BroadcastReceivers` — consumo ultraeficiente de **< 1 mAh en 24 horas**
+- 🏅 **+385 horas continuas** de ejecución en background en Android 15 con capas de personalización agresivas
+- Lógica de agregación para reportes estadísticos diarios/semanales de ciclos de carga parciales
+- **Privacy by Design (GDPR):** sin recopilación de datos, 100% local
+- `Kotlin` · `MVVM` · `Clean Architecture` · `Room/SQLite` · `BroadcastReceivers`
 
 ---
 
-### 🎮 [Scrcpy Control Center](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER) — Desktop Android Manager
-> *Herramienta utilitaria de código abierto para la gestión y control de dispositivos Android*
+### 🏥 Sentinel Care — iOS Remote Monitoring Platform
+> *Plataforma de monitoreo médico remoto · Atlas System (Nov 2025 – Feb 2026)*
 
-* Interfaz en **JavaFX** orientada al desarrollador para control de baja latencia vía USB/WiFi con emparejamiento automático (Android 6 a 15).
-* Implementación del patrón **Auto-Healing (Watchdog)** para el autorestablecimiento inteligente de servicios ADB caídos de forma transparente.
-* Distribución **Stand-alone**: Procesos ADB embebidos por completo para acelerar pruebas locales de aplicaciones sin requerir configuraciones de entorno manuales.
-* ✅ **Validado oficialmente como software seguro** por *Microsoft Security Intelligence* (Caso ID: 21361229).
-* `JavaFX` · `Java` · `ADB` · `Process Management`
+- Desarrollada en **Swift/SwiftUI** con arquitectura modular limpia (`Core · Features · Dashboard`)
+- **Tracking híbrido** con `CoreLocation` + GPS para monitoreo de ubicación en tiempo real y geofencing avanzado
+- Integración con **HealthKit** para tracking biométrico y detección de anomalías
+- **Sign in with Apple** y pagos integrados con **Apple Pay**
+- Control **multirrol** (Centinela Principal · Aliado · Protegido) con visibilidad condicional por plan
+- `Swift` · `SwiftUI` · `HealthKit` · `CoreLocation` · `GPS` · `Apple Pay` · `MVVM` · `AWS`
+
+---
+
+### 🔐 BCrypt — Investigación Técnica en Seguridad
+> *Análisis profundo del algoritmo de hashing para contraseñas más adoptado en producción*
+
+- Documentación técnica del **funcionamiento interno de BCrypt**: arquitectura Blowfish, salting, Key Expansion y rondas de cómputo
+- Análisis comparativo con **Argon2** (ganador PHC 2015) y algoritmos legacy como SHA-1 y MD5
+- Aplicación práctica en **Spring Security** con `BCryptPasswordEncoder` para flujos de registro y autenticación
+- Comprensión del comportamiento de hashing: por qué el mismo input genera outputs distintos y cómo funciona la verificación sin almacenar la contraseña original
+- `Spring Security` · `BCrypt` · `OAuth2` · `Criptografía` · `Seguridad de Contraseñas`
+
+---
+
+### 🖥️ [Scrcpy Control Center](https://github.com/EMILIO25CC/SCRCPY-CONTROL-CENTER) — Desktop Android Manager
+> *Herramienta "Zero Setup" para gestión remota de dispositivos Android · Open Source*
+
+- **JavaFX** — control remoto vía USB/WiFi con detección automática de dispositivos disponible desde Android 6
+- Patrón **Auto-Healing (Watchdog)** que restablece servicios ADB sin intervención del usuario
+- Binarios ADB completamente embebidos — sin configuración manual por parte del usuario
+- ✅ **Validado por Microsoft Security Intelligence** como software seguro (Caso ID: 21361229)
+- `JavaFX` · `Java` · `ADB` · `Process Management`
 
 ---
 
@@ -97,15 +139,11 @@ Desarrollador de software especializado en el diseño de **aplicaciones móviles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EMILIO25CC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=e94560&icon_color=e94560&title_color=e94560&text_color=a8b2d8"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EMILIO25CC&show_icons=true&theme=github_dark&hide_border=true&title_color=e94560&icon_color=e94560&text_color=c9d1d9&bg_color=0d1117)](https://github.com/EMILIO25CC)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMILIO25CC&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&border_color=e94560&title_color=e94560&text_color=a8b2d8"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMILIO25CC&layout=compact&theme=github_dark&hide_border=true&title_color=e94560&text_color=c9d1d9&bg_color=0d1117)](https://github.com/EMILIO25CC)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EMILIO25CC&theme=dark&background=0d1117&border=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EMILIO25CC&theme=github-dark-blue&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://github.com/EMILIO25CC)
 
 </div>
 
@@ -113,21 +151,35 @@ Desarrollador de software especializado en el diseño de **aplicaciones móviles
 
 ## 🎯 Actualmente
 
-* 🔨 Finalizando el despliegue técnico y lanzamiento de **MoniBat** en la Google Play Store.
-* 📚 Profundizando en la arquitectura de **sistemas distribuidos** de alta disponibilidad y **Apache Kafka** enfocado al ecosistema Backend.
-* 🤖 Desarrollando metodologías de **IA aplicada** como acelerador de patrones arquitectónicos complejos.
-* 🎯 **Objetivo profesional:** Incorporarme a proyectos enfocados en sistemas críticos de alto rendimiento.
+- ⏳ **MoniBat** aprobado tras 14 días de revisión — aguardando pase a producción en Google Play
+- 📚 Profundizando en **arquitectura de sistemas distribuidos de alta disponibilidad** y **Apache Kafka** con enfoque en el ecosistema Backend
+- 🔐 Ampliando conocimientos en **seguridad informática**: criptografía aplicada, autenticación segura y protección de datos en producción
+- 🎯 Objetivo: sistemas backend críticos, escalables y seguros
 
 ---
 
-## 💡 Filosofía de Ingeniería
+## 💡 Filosofía de Desarrollo
 
-> 🚀 **"Architecture-first, performance-obsessed."** > Enfoco mi criterio técnico en la premisa de que el buen software no se mide por cómo funciona en un entorno controlado, sino por cómo sobrevive, escala y responde ante las condiciones más hostiles del mundo real, desde la interfaz del usuario en el móvil hasta el último microservicio en el servidor.
+```swift
+protocol EngineeringMindset {
+    var approach: String { get }
+    var security: String { get }
+    var goal:     String { get }
+}
+
+struct CarlosApproach: EngineeringMindset {
+    let approach  = "Architecture-first, performance-obsessed"
+    let security  = "Security by design, not as an afterthought"
+    let goal      = "Ship products that survive the real world"
+}
+```
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&text=Let%27s%20Build%20Something%20Great%20Together&fontSize=20&fontColor=e94560&fontAlignY=65)
+**`< Let's build something great together />`**
+
+![Profile Views](https://komarev.com/ghpvc/?username=EMILIO25CC&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
