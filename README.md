@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Carlos Cabrera
+#  Hola, soy Carlos Cabrera
 ### `iOS · Android · Backend Engineer · Product Builder · Lima, Perú 🇵🇪`
 
 <br/>
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-cabrera-dev/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DeSofCC)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emiliooficial25/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliooficial25@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=emiliooficial25@gmail.com)
 
 </div>
 
@@ -95,7 +95,7 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia,
 ---
 
 ### 🏥 Sentinel Care — iOS Remote Monitoring Platform
-> 💼 **Experiencia Profesional · [Atlas Tech Studio](https://www.linkedin.com/company/atlas-systems-pe/)** · Nov 2025 – Feb 2026
+> 💼 **Experiencia Profesional · [Atlas Tech Studio](https://www.linkedin.com/company/atlas-systems-pe/)** · Nov 2025 – Presente · *+5 meses*
 > *Desarrollador iOS — responsable del ciclo completo de la aplicación*
 
 - Desarrollada en **Swift/SwiftUI** con arquitectura modular limpia (`Core · Features · Dashboard`)
