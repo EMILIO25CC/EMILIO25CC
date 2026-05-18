@@ -16,23 +16,16 @@
 
 ## 👨‍💻 Sobre mí
 
-```kotlin
-data class Developer(
-    val name:      String       = "Carlos Emilio Cabrera Castañeda",
-    val alias:     String       = "EMILIO25CC",
-    val location:  String       = "Lima, Perú 🇵🇪",
-    val focus:     List<String> = listOf(
-        "iOS Development (Swift · SwiftUI)",
-        "Android Development (Kotlin · Java)",
-        "Backend Engineering (Spring Boot · Microservices)",
-        "Information Security & Cryptography",
-        "AI-Accelerated Development"
-    ),
-    val philosophy: String = "Build products that work in the real world, under real conditions"
-)
-```
+Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia, rendimiento crítico y seguridad**. Construyo productos reales desde la concepción hasta producción, con criterio técnico sólido en sistemas iOS, Android y servicios backend escalables. Potencio mi flujo de trabajo con **Inteligencia Artificial** como acelerador de arquitectura y desarrollo.
 
-> Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia, rendimiento crítico y seguridad**. Construyo productos reales desde la concepción hasta producción, con criterio técnico sólido en sistemas iOS, Android y servicios backend escalables. Potencio mi flujo de trabajo con **Inteligencia Artificial** como acelerador de arquitectura y desarrollo.
+| | |
+|---|---|
+| 📍 **Ubicación** | Lima, Perú 🇵🇪 |
+| 📱 **Mobile** | iOS (Swift · SwiftUI) · Android (Kotlin · Java) |
+| ⚙️ **Backend** | Spring Boot · Microservices · REST APIs |
+| 🔐 **Seguridad** | Criptografía aplicada · Spring Security · OAuth2 |
+| 🤖 **Enfoque** | AI-Accelerated Development |
+| 💬 **Filosofía** | *Build products that work in the real world, under real conditions* |
 
 ---
 
@@ -102,13 +95,15 @@ data class Developer(
 ---
 
 ### 🏥 Sentinel Care — iOS Remote Monitoring Platform
-> *Plataforma de monitoreo médico remoto · Atlas System (Nov 2025 – Feb 2026)*
+> 💼 **Experiencia Profesional · [Atlas Tech Studio](https://www.linkedin.com/company/atlas-systems-pe/)** · Nov 2025 – Feb 2026
+> *Desarrollador iOS — responsable del ciclo completo de la aplicación*
 
 - Desarrollada en **Swift/SwiftUI** con arquitectura modular limpia (`Core · Features · Dashboard`)
 - **Tracking híbrido** con `CoreLocation` + GPS para monitoreo de ubicación en tiempo real y geofencing avanzado
 - Integración con **HealthKit** para tracking biométrico y detección de anomalías
 - **Sign in with Apple** y pagos integrados con **Apple Pay**
 - Control **multirrol** (Centinela Principal · Aliado · Protegido) con visibilidad condicional por plan
+- Integración con **AWS** y servicios nativos de Apple
 - `Swift` · `SwiftUI` · `HealthKit` · `CoreLocation` · `GPS` · `Apple Pay` · `MVVM` · `AWS`
 
 ---
@@ -139,10 +134,6 @@ data class Developer(
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EMILIO25CC&show_icons=true&theme=github_dark&hide_border=true&title_color=e94560&icon_color=e94560&text_color=c9d1d9&bg_color=0d1117)](https://github.com/EMILIO25CC)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMILIO25CC&layout=compact&theme=github_dark&hide_border=true&title_color=e94560&text_color=c9d1d9&bg_color=0d1117)](https://github.com/EMILIO25CC)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EMILIO25CC&theme=github-dark-blue&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://github.com/EMILIO25CC)
 
 </div>
@@ -160,19 +151,9 @@ data class Developer(
 
 ## 💡 Filosofía de Desarrollo
 
-```swift
-protocol EngineeringMindset {
-    var approach: String { get }
-    var security: String { get }
-    var goal:     String { get }
-}
-
-struct CarlosApproach: EngineeringMindset {
-    let approach  = "Architecture-first, performance-obsessed"
-    let security  = "Security by design, not as an afterthought"
-    let goal      = "Ship products that survive the real world"
-}
-```
+- 🏗️ **Architecture-first** — diseño la estructura antes de escribir la primera línea de código
+- 🔐 **Security by design** — la seguridad no es un añadido, es parte del núcleo
+- 🚀 **Ship products that survive the real world** — rendimiento real, no solo en teoría
 
 ---
 
