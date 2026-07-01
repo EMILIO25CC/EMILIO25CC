@@ -86,7 +86,7 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia 
 ## 🚀 Proyectos
 
 ### 🏥 Sentinel Care — iOS Remote Monitoring Platform
-> 💼 **Experiencia Profesional · [Atlas Tech Studio](https://www.linkedin.com/company/atlas-systems-pe/)** · Nov 2025 – Presente · *+5 meses*
+> 💼 **Experiencia Profesional · [Atlas Tech Studio](https://www.linkedin.com/company/atlas-systems-pe/)** · Oct 2025 – Presente · *+5 meses*
 > *Desarrollador iOS — responsable del ciclo completo de la aplicación*
 
 - Swift/SwiftUI con arquitectura modular limpia (`Core · Features · Dashboard`)
