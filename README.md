@@ -20,7 +20,7 @@ Desarrollador Mobile e Ingeniería Backend con enfoque en **arquitectura limpia 
 | | |
 |---|---|
 | 📍 **Ubicación** | Lima, Perú 🇵🇪 |
-| 📱 **Mobile** | Android (Kotlin) |
+| 📱 **Mobile** | Android/iOS |
 | ⚙️ **Backend** | Spring Boot · Microservices · REST APIs |
 | 🔐 **Seguridad** | Criptografía aplicada · Spring Security · OAuth2 |
 | 🤖 **Flujo de trabajo** | AI-assisted architecture and development workflows |
